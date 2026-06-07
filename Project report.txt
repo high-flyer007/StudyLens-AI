@@ -1,0 +1,31 @@
+Project Name:
+AI Study Assistant
+
+Problem Statement:
+Students spend too much time reading notes and preparing for exams.
+
+Target Users:
+- College Students
+- School Students
+- Competitive Exam Aspirants
+
+Core Features:
+1. Upload PDF Notes
+2. Generate Summary
+3. Generate Quiz
+4. Ask Questions from Notes
+
+User Flow:
+Upload PDF
+↓
+Extract Text
+↓
+Select Action
+↓
+AI Response
+
+Screens:
+1. Home Screen
+2. Summary Screen
+3. Quiz Screen
+4. Q&A Screen
